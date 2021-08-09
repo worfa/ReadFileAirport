@@ -1,0 +1,22 @@
+# Created at 2021-08-01T21:35:42.645
+[SUREFIRE] std/in stream corrupted
+java.io.IOException: Command NOOP unexpectedly read Void data with length 4.
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:130)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-08-01T21:37:52.657
+Unexpected IOException with stream: 5
+
+# Created at 2021-08-01T21:37:52.660
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-01T21:37:52.675
+Unexpected IOException with stream: 
+
+
+Найдено строк: 0
+
+
